@@ -1,0 +1,9 @@
+[{
+  "relation": ["delegate_permission/common.handle_all_urls"],
+  "target": {
+    "namespace": "android_app",
+    "package_name": "com.halal.halalproject",
+    "sha256_cert_fingerprints":
+    ["E7:C1:E2:11:59:72:6B:73:C2:4C:C4:24:24:F7:9C:84:9C:D1:35:34:E4:29:A2:B7:34:7F:CE:6D:A0:15:8A:C8"]
+  }
+}]
